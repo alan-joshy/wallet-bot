@@ -1,0 +1,25 @@
+{
+  "name": "wallet-bot",
+  "version": "1.0.0",
+  "description": "This Bot can create wallets on sepolia testnet",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "na"
+  },
+  "keywords": [
+    "na"
+  ],
+  "author": "Alan",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "dotenv": "^16.3.1",
+    "ethers": "^5.7.2",
+    "grammy": "^1.19.2",
+    "sqlite3": "^5.1.6"
+  }
+}
